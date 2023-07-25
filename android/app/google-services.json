@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "326785958660",
+    "project_id": "medical-121b2",
+    "storage_bucket": "medical-121b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326785958660:android:7772f3035b03d9e17d4651",
+        "android_client_info": {
+          "package_name": "com.ryan.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "326785958660-5v0dmp31nk9t0kij1245l3s659cp0m3n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0Jfee1JUeJfdiodTSXiHbDLFzbsJ1OSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "326785958660-5v0dmp31nk9t0kij1245l3s659cp0m3n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
