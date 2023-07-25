@@ -1,7 +1,7 @@
 
 # Flutter Medical State Management Bloc
 
-This is my exploration result project using state management block
+This is my exploration result project using state management bloc
 
 
 Star⭐ the repo if you like what you see😉.
